@@ -1,11 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
-    margin: 50px auto;
+    max-height: 100vh;
+    margin: 0;
+    padding: 0;
 }
 .main-div{
     width: 920px;
     height: 500px;
     background-color: green;
-    margin: auto auto;
+    margin: auto;
     display: flex;
     flex-direction: row;
 }
