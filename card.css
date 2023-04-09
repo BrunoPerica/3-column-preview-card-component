@@ -1,0 +1,146 @@
+body{
+    margin: 50px auto;
+}
+.main-div{
+    width: 920px;
+    height: 500px;
+    background-color: green;
+    margin: auto auto;
+    display: flex;
+    flex-direction: row;
+}
+.div-two{
+    width: 307px;
+    height: 500px;
+    background-color: #E28625;
+}
+.div-three{
+    width: 307px;
+    height: 500px;
+    background-color: #006971;
+}
+.div-four{
+    width: 307px;
+    height: 500px;
+    background-color: #004140;
+}
+.sedans{
+    width: 64px;
+    height: 40px;
+    position: relative;
+    left: 48px;
+    top: 48px;
+}
+.sedans-head{
+    width: 101px;
+    height: 48px;
+    color: white;
+    position: relative;
+    left: 48px;
+    top: 80px;
+    font-size: 35px;
+    font-family: 'Big Shoulders Display', cursive;
+}
+.sedans-info{
+    width: 212px;
+    height: 125px;
+    position: relative;
+    left: 49px;
+    top: 90px;
+    font-size: 15px;
+    color: white;
+    font-family: 'Lexend Deca', sans-serif;
+
+}
+.button{
+    width: 146px;
+    height: 48px;
+    border: none;
+    border-radius: 20px;
+    position: relative;
+    top: 100px;
+    left: 38px;
+    font-size: 16px;
+    color: #E28625;
+}
+.suvs{
+    width: 64px;
+    height: 40px;
+    position: relative;
+    left: 48px;
+    top: 48px;
+}
+.suvs-head{
+    width: 101px;
+    height: 48px;
+    color: white;
+    position: relative;
+    left: 48px;
+    top: 80px;
+    font-size: 35px;
+    font-family: 'Big Shoulders Display', cursive;
+
+}
+.suvs-info{
+    width: 212px;
+    height: 125px;
+    position: relative;
+    left: 49px;
+    top: 90px;
+    font-size: 15px;
+    color: white;
+    font-family: 'Lexend Deca', sans-serif;
+
+}
+.button2{
+    color: #006971;
+    width: 146px;
+    height: 48px;
+    border: none;
+    border-radius: 20px;
+    position: relative;
+    top: 100px;
+    left: 38px;
+    font-size: 16px;
+}
+.luxury{
+    width: 64px;
+    height: 40px;
+    position: relative;
+    left: 48px;
+    top: 48px;
+}
+.luxury-head{
+    width: 101px;
+    height: 48px;
+    color: white;
+    position: relative;
+    left: 48px;
+    top: 80px;
+    font-size: 35px;
+    font-family: 'Big Shoulders Display', cursive;
+
+}
+.luxury-info{
+    width: 212px;
+    height: 125px;
+    position: relative;
+    left: 49px;
+    top: 90px;
+    font-size: 15px;
+    color: white;
+    font-family: 'Lexend Deca', sans-serif;
+
+}
+.button3{
+    color: #004140;
+    width: 146px;
+    height: 48px;
+    border: none;
+    border-radius: 20px;
+    position: relative;
+    top: 100px;
+    left: 38px;
+    font-size: 16px;
+
+}
